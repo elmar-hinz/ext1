@@ -1,4 +1,4 @@
-!#/bin/sh
+#!/bin/sh
 
 rm -rf ext1/Cool
 git clone https://github.com/t3elmar/Cool.git ./ext1/Cool
