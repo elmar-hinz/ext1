@@ -1,4 +1,6 @@
 ext1
 ====
 
-TYPO3 extension to deploy ext
+This extension is a deployment container for the ext - command-line ter client.
+
+Homepage: http://t3elmar.github.com/Ext/
