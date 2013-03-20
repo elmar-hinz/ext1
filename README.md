@@ -1,6 +1,11 @@
 ext1
 ====
 
-This extension is a deployment container for the ext - command-line ter client.
+This is a tool to create and deploy the TYPO3 extension **ext1**.
 
-Homepage: http://t3elmar.github.com/Ext/
+The extension **ext1** is itself a deployment container
+for the *TYPO3* **ext** command-line extension uploader 
+in version 1.x.x.
+
+Anything unclear? Yes, that's the way it is.
+
